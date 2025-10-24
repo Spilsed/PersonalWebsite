@@ -30,14 +30,6 @@
 				</div>
 			</div>
 		</div>
-		<div class="grid grid-cols-1 gap-2">
-			<button
-				class="rounded-xl bg-primary-700 p-2 text-center font-bold"
-				onclick={() => window.open('https://www.github.com/Spilsed/PerceptronToTransformers')}
-			>
-				From Perceptron To Transformers
-			</button>
-		</div>
 		<Card title="Meras" img={meras} img_class="h-30 p-3">
 			<p class="font-light">
 				Meras is a modular calendar app build using Tauri and SvelteKit. The goal is to be
