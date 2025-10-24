@@ -27,12 +27,6 @@
 					>
 						<p class="text-secondary-300 italic">LinkedIn</p>
 					</button>
-					<button
-						class="m-2 ml-0 w-20 cursor-pointer rounded-lg border-2 p-2 transition-all hover:scale-105 hover:shadow-lg"
-						onclick={() => goto('/blog')}
-					>
-						<p class="text-secondary-300 italic">Blog</p>
-					</button>
 				</div>
 			</div>
 		</div>
